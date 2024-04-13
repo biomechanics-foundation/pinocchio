@@ -1,0 +1,18 @@
+{
+    "editor.trimAutoWhitespace": true,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.formatOnSave": true,
+    "editor.hover.delay": 900,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "rust-analyzer.check.command": "clippy",
+    "evenBetterToml.schema.enabled": true,
+    "errorLens.enabled": true,
+    "rust-analyzer.inlayHints.lifetimeElisionHints.enable": "always",
+    "cSpell.enableFiletypes": [
+        "rust"
+    ],
+    "rust-analyzer.debug.engine": "vadimcn.vscode-lldb"
+}
